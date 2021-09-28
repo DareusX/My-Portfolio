@@ -1,6 +1,10 @@
 # Assorted-Blender-Creations
 Repository of my various Blender creations and other stuff. Don't steal
 ---------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Images of some of the projects
+
+
 ## A goblet created by extruding up from a circle and scaling + beweling when needed. 
 ![Goblet with runes](/Images/Goblet_V2.JPG)
 ---------------------------------------------------------------------------------------------------------------------------------------------------
