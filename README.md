@@ -9,3 +9,4 @@ Repository of my various Blender creations and other stuff. Don't steal
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 ## A more complex model of a Runic Sword
 ![Rune Sword](https://raw.githubusercontent.com/DareusX/Assorted-Blender-Creations/main/Images/RuneSword_V1.5.JPG?token=AKPN6G4PNL2UNKC2Q4PEJM3BKNJRY)
+----------------------------------------------------------------------------------------------------------------------------------------------------
