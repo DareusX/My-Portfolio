@@ -26,4 +26,4 @@ Repository of my various Blender creations and other stuff. Don't steal
 ## Geometry Node World, serves as a base for future projects
 ![Geometry Node World](/Images/GeometryNode_WorldTest_Moonlight.png)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
-## Animations can be found in my YouTube Channel: https://www.youtube.com/channel/UCvt_bc6sRL_RVfUG7AuUg_A
+## Animations can be found on my YouTube Channel: https://www.youtube.com/channel/UCvt_bc6sRL_RVfUG7AuUg_A
