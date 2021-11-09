@@ -26,6 +26,7 @@ Repository of my various Blender creations and other stuff. Don't steal
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ## Geometry Node World, serves as a base for future projects
 ![Geometry Node World](/Images/GeometryNode_WorldTest_Moonlight.png)
+![Geometry Animations Base](/Images/GeometryNode_WorldTest_DayAnimations.png)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ## B1-Battledroid, did this some time after starting to learn Blender
 ![B1-Battledroid](/Images/B1_Droid.png)
