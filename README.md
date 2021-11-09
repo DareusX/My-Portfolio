@@ -14,3 +14,16 @@ Repository of my various Blender creations and other stuff. Don't steal
 ## A more complex model of a Runic Sword
 ![Rune Sword](/Images/RuneSword_V1.5.JPG)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
+## Tested creating a stylized glow material
+![Stylized Glow](/Images/StylizedGlow_ShaderTesting.png)
+----------------------------------------------------------------------------------------------------------------------------------------------------
+## First try of creating a water texture and animations for it
+![Water Texture](/Images/First_Water_Test.png)
+----------------------------------------------------------------------------------------------------------------------------------------------------
+## Started testing what sort of things one can create using Geometry Nodes
+![Fractal Geometry](/Images/Fractal_Render.png)
+----------------------------------------------------------------------------------------------------------------------------------------------------
+## A more complex model of a Runic Sword
+![Geometry Node World](/Images/GeometryNode_WorldTest_Moonlight.png)
+----------------------------------------------------------------------------------------------------------------------------------------------------
+## Animations can be found in my YouTube Channel: https://www.youtube.com/channel/UCvt_bc6sRL_RVfUG7AuUg_A
