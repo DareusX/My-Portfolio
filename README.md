@@ -23,7 +23,7 @@ Repository of my various Blender creations and other stuff. Don't steal
 ## Started testing what sort of things one can create using Geometry Nodes
 ![Fractal Geometry](/Images/Fractal_Render.png)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
-## A more complex model of a Runic Sword
+## Geometry Node World, serves as a base for future projects
 ![Geometry Node World](/Images/GeometryNode_WorldTest_Moonlight.png)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ## Animations can be found in my YouTube Channel: https://www.youtube.com/channel/UCvt_bc6sRL_RVfUG7AuUg_A
