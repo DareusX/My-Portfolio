@@ -5,7 +5,7 @@ Repository of my various Blender creations and other stuff. Don't steal
 # Images of some of the projects
 
 
-## A goblet created by extruding up from a circle and scaling + beweling when needed. The runes were added by importing an Scalable Vector Graph tracing of them and exruding
+## A goblet created by extruding up from a circle and scaling + beweling when needed. The runes were added by importing an Scalable Vector Graph tracing of them and extruding the shapes
 ![Goblet with runes](/Images/Goblet_V2.JPG)
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 ## A simple model of a Ukonvasara (Ukko's Hammer) necklace
