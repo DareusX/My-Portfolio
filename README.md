@@ -2,7 +2,7 @@
 Repository of my various Blender creations and other stuff. Don't steal
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Images of some of the projects
+# Images of some of the projects and link to animations at the bottom
 
 
 ## A goblet created by extruding up from a circle and scaling + beweling when needed. The runes were added by importing an Scalable Vector Graph tracing of them and extruding the shapes
