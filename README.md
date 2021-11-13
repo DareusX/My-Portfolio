@@ -23,6 +23,7 @@ Repository of my various Blender creations and other stuff. Don't steal
 ## Started testing what sort of things one can create using Geometry Nodes
 ![Fractal Geometry](/Images/Fractal_Render.png)
 ![Fractal Geometry Sideways](/Images/Fractal_Render_Side.png)
+![Fractal Geometry Colored](/Images/ColorFractal_Cycles.png)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ## Geometry Node World, serves as a base for future projects
 ![Geometry Node World](/Images/GeometryNode_WorldTest_Moonlight.png)
