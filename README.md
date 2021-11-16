@@ -13,6 +13,7 @@ Repository of my various Blender creations and other stuff. Don't steal
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 ## A more complex model of a Runic Sword
 ![Rune Sword](/Images/RuneSword_V1.5.JPG)
+![Rune WIP Render](/Images/Sword_render.png)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ## Tested creating a stylized glow material
 ![Stylized Glow](/Images/StylizedGlow_ShaderTesting.png)
