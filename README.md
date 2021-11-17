@@ -30,6 +30,9 @@ Repository of my various Blender creations and other stuff. Don't steal
 ![Geometry Node World](/Images/GeometryNode_WorldTest_Moonlight.png)
 ![Geometry Animations Base](/Images/GeometryNode_WorldTest_DayAnimations.png)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
+## Made some bushes by using Particle System for futere projects
+![Some Bushes](/Images/Bushes_ParticleSystem_render.png)
+----------------------------------------------------------------------------------------------------------------------------------------------------
 ## B1-Battledroid, did this some time after starting to learn Blender
 ![B1-Battledroid](/Images/B1_Droid.png)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
