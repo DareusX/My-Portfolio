@@ -35,7 +35,7 @@ Repository of my various Blender creations and other stuff. Don't steal
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ## Sci-Fi Scene Base, will get more complicated when I have the time. 
 ![Sci-Fi Scene](/Images/scifi_scene.png)
-# Adding things like Walls for an example.
+### Adding things like Walls for an example.
 ![Scene with walls added](/Images/scifi_scene_withwalls.png)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ## B1-Battledroid, did this some time after starting to learn Blender
