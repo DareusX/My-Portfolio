@@ -38,6 +38,9 @@ Repository of my various Blender creations and other stuff. Don't steal
 ### Adding things like Walls for an example.
 ![Scene with walls added](/Images/scifi_scene_withwalls.png)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
+### The Stylized tree made in Blender and imported to Unity
+![Tree in Unity](/Images/tree_unity.png)
+----------------------------------------------------------------------------------------------------------------------------------------------------
 ## B1-Battledroid, did this some time after starting to learn Blender
 ![B1-Battledroid](/Images/B1_Droid.png)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
