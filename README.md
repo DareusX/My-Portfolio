@@ -38,8 +38,8 @@ Repository of my various Blender creations and other stuff. Don't steal
 ### Adding things like Walls for an example.
 ![Scene with walls added](/Images/scifi_scene_withwalls.png)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
-### The Stylized tree made in Blender and imported to Unity and Variants
-![Trees in Unity](/Images/tree_variants_unity.png)
+### The Stylized tree made in Blender and imported to Unity. Edit. Added Prefab Variants
+![Tree in Unity](/Images/tree_unity.png)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ### Doing Photogrammetry for my Bachelor's Thesis
 ![Photogrammetry V1](/Images/First_test_photogrammetry.png)
