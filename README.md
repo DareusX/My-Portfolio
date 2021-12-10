@@ -46,7 +46,6 @@ Repository of my various Blender creations and other stuff. Don't steal
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ### Leviathan just about Finished, still need to try and make it work in Unity
 ![Leviathan V3](/Images/Leviathan.png)
-### Low-Poly version with High-Poly normal bake
 ![Leviathan Low-Poly](/Images/LowPolyLeviathan.png)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ## B1-Battledroid, did this some time after starting to learn Blender
