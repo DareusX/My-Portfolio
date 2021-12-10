@@ -44,9 +44,8 @@ Repository of my various Blender creations and other stuff. Don't steal
 ### Doing Photogrammetry for my Bachelor's Thesis
 ![Photogrammetry V1](/Images/First_test_photogrammetry.png)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
-### Leviathan just about Finished, still need to try and make it work in Unity
+### Leviathan just about Finished, still need to try and make it work in Unity. Low Poly can be found in the images directory, for some reason can't be added here
 ![Leviathan V3](/Images/Leviathan.png)
-![Leviathan Low](/Images/Leviathan2.png) 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ## B1-Battledroid, did this some time after starting to learn Blender
 ![B1-Battledroid](/Images/B1_Droid.png)
