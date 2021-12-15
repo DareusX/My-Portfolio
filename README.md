@@ -47,6 +47,9 @@ Repository of my various Blender creations and other stuff. Don't steal
 ### Leviathan just about Finished, still need to try and make it work in Unity. Low Poly can be found in the images directory, for some reason can't be added here
 ![Leviathan V3](/Images/Leviathan.png)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
+### Started making more background stuff like this Ancient Pillar
+![Ancient Pillar](/Images/Sandstone_Block_Pillar.png)
+----------------------------------------------------------------------------------------------------------------------------------------------------
 ## B1-Battledroid, did this some time after starting to learn Blender
 ![B1-Battledroid](/Images/B1_Droid.png)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
