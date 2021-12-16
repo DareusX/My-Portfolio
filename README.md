@@ -43,7 +43,9 @@ Repository of my various Blender creations and other stuff. Don't steal
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ### Doing Photogrammetry for my Bachelor's Thesis
 ![Photogrammetry V1](/Images/First_test_photogrammetry.png)
+### Low-Poly before Diffuse texture and normal map
 ![LowPoly before Diffuse and normal](/Images/LowPoly_before_Diffuse_and_Normal.png)
+### Low-Poly after Diffuse texture and normal map
 ![LowPoly after Diffuse and normal](/Images/LowPoly_after_Diffuse_and_Normal.png)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ### Leviathan just about Finished, still need to try and make it work in Unity. Low Poly can be found in the images directory, for some reason can't be added here
