@@ -40,8 +40,6 @@ Repository of my various Blender creations and other stuff. Don't steal
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ### The Stylized tree made in Blender and imported to Unity. Edit. Added Prefab Variants
 ![Tree in Unity](/Images/tree_unity.png)
-### Trying to make different imported assets to work
-![Test Scene](/Images/unity_test_space.png)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ### Doing Photogrammetry for my Bachelor's Thesis, this is the High-Poly model gained by using Meshroom
 ![Photogrammetry V1](/Images/First_test_photogrammetry.png)
@@ -56,7 +54,7 @@ Repository of my various Blender creations and other stuff. Don't steal
 ### Started making more background stuff like this Ancient Pillar
 ![Ancient Pillar](/Images/Sandstone_Block_Pillar.png)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
-## B1-Battledroid, did this some time after starting to learn Blender
+### B1-Battledroid, did this some time after starting to learn Blender
 ![B1-Battledroid](/Images/B1_Droid.png)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ## Animations can be found on my YouTube Channel: https://www.youtube.com/channel/UCvt_bc6sRL_RVfUG7AuUg_A
