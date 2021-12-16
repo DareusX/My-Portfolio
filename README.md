@@ -41,6 +41,9 @@ Repository of my various Blender creations and other stuff. Don't steal
 ### The Stylized tree made in Blender and imported to Unity. Edit. Added Prefab Variants
 ![Tree in Unity](/Images/tree_unity.png)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
+### Unity Asset test scene, where I try to make assets imported from Blender to work
+![Test Scene](/Images/Unity_test_space.png)
+----------------------------------------------------------------------------------------------------------------------------------------------------
 ### Doing Photogrammetry for my Bachelor's Thesis, this is the High-Poly model gained by using Meshroom
 ![Photogrammetry V1](/Images/First_test_photogrammetry.png)
 ### Low-Poly before Diffuse texture and normal map
