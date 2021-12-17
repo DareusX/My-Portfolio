@@ -4,7 +4,9 @@ Repository of my various Blender creations and other stuff. Don't steal
 
 # Images of some of the projects and link to animations at the bottom
 
-
+## B1-Battledroid, did this some time after starting to learn Blender
+![B1-Battledroid](/Images/B1_Droid.png)
+----------------------------------------------------------------------------------------------------------------------------------------------------
 ## A goblet created by extruding up from a circle and scaling + beweling when needed. The runes were added by importing an Scalable Vector Graph tracing of them and extruding the shapes
 ![Goblet with runes](/Images/Goblet_V2.JPG)
 ---------------------------------------------------------------------------------------------------------------------------------------------------
@@ -55,8 +57,5 @@ Repository of my various Blender creations and other stuff. Don't steal
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ### Started making more background stuff like this Ancient Pillar
 ![Ancient Pillar](/Images/Sandstone_Block_Pillar.png)
-----------------------------------------------------------------------------------------------------------------------------------------------------
-### B1-Battledroid, did this some time after starting to learn Blender
-![B1-Battledroid](/Images/B1_Droid.png)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ## Animations can be found on my YouTube Channel: https://www.youtube.com/channel/UCvt_bc6sRL_RVfUG7AuUg_A
