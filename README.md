@@ -54,6 +54,7 @@ Repository of my various Blender creations and other stuff. Don't steal
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ### Leviathan just about Finished, still need to try and make it work in Unity. Low Poly can be found in the images directory, for some reason can't be added here
 ![Leviathan V3](/Images/Leviathan.png)
+### Low-poly topology
 ![Leviathan Edit view](/Images/LeviathanLowEdit.png)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ### Started making more background stuff like this Ancient Pillar
