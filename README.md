@@ -59,6 +59,6 @@ Repository of my various Blender creations and other stuff. Don't steal
 ![Ancient Pillar](/Images/Sandstone_Block_Pillar.png)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ### Test on how quickly I can model
-![Ancient Pillar](/Images/boom_kart.png)
+![Boom_kart](/Images/boom_kart.png)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 ## Animations can be found on my YouTube Channel: https://www.youtube.com/channel/UCvt_bc6sRL_RVfUG7AuUg_A
