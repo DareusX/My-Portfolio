@@ -58,7 +58,4 @@ Repository of my various Blender creations and other stuff. Don't steal
 ### Started making more background stuff like this Ancient Pillar
 ![Ancient Pillar](/Images/Sandstone_Block_Pillar.png)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
-### Test on how quickly I can model
-![Boom_kart](/Images/boom_kart.png)
-----------------------------------------------------------------------------------------------------------------------------------------------------
 ## Animations can be found on my YouTube Channel: https://www.youtube.com/channel/UCvt_bc6sRL_RVfUG7AuUg_A
